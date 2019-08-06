@@ -86,8 +86,6 @@ body.loading {
 #pesquisar {
     text-align: center;
     margin-top: 40px;
-
-    
 }
 
 #pesquisar .global-page-container {
@@ -171,6 +169,7 @@ body.loading {
     text-align: left;
     font-size: 32px;
 }
+
 
 #weatherinfo .results .city_name {
     font-size: 32px;
